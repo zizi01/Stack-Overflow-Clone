@@ -8,6 +8,9 @@
     "start": "node index.js",
     "build": "npm i"
   },
+  "engines": {
+    "node": ">=14 <15"
+  },
   "author": "Kumar Manoj",
   "license": "ISC",
   "dependencies": {
